@@ -1,0 +1,42 @@
+var beers [{
+   "Company":"Grain Belt",
+   "Brand":"Premium",
+   "Style":"American Adjunct Lager"
+},
+{
+   "Company":"Goose Island",
+   "Brand":"Bourbon County Brand Stout",
+   "Style":"Double Imperial Stout"
+},
+{
+   "Company":"Terrapin",
+   "Brand":"Hi-5",
+   "Style":"IPA"
+},
+{
+   "Company":"Wicked Weed",
+   "Brand":"Freak of Nature",
+   "Style":"Double IPA"
+},
+{
+   "Company":"Coors",
+   "Brand":"Blue Moon",
+   "Style":"American Wheat"
+}];
+
+var birds [{
+   "Species Name":"Crow",
+   "Color":"Black"
+},
+{
+   "Species Name":"Nuthatch",
+   "Color":"Blue anb black, with a white underbelly"
+},
+{
+   "Species Name":"Robin",
+   "Color":"Grey with an orange underbelly"
+},
+{
+   "Species Name":"Cardinal",
+   "Color":"Red"
+}];
